@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "490486514614",
+    "firebase_url": "https://tracker-c20fd-default-rtdb.firebaseio.com",
+    "project_id": "tracker-c20fd",
+    "storage_bucket": "tracker-c20fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490486514614:android:a75337f35da3a5b0a03717",
+        "android_client_info": {
+          "package_name": "com.company.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490486514614-nu97deksc9qra2gdns6lhth5acoa1elq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqeYggc6yGQ7uL0xYEcwkiqUejY2en3Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490486514614-nu97deksc9qra2gdns6lhth5acoa1elq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
